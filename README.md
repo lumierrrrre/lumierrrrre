@@ -23,12 +23,12 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://uust.ru/static/New_files_ugatu/images/redesign/brandbook/logo-sign.png" alt="UUST Logo" height="40" /></td>
+      <td><img src="assets/logo-uust.png" alt="UUST Logo" height="40" /></td>
       <td><a href="https://uust.ru/"><strong>UUST</strong></a> (2019-2023)</td>
       <td><strong>Bachelor's degree</strong> (Software Engineering)</td>
     </tr>
     <tr>
-      <td><img src="https://www.spbstu.ru/local/templates/main/img/logo.png" alt="SPbPU Logo" height="40" /></td>
+      <td><img src="assets/logo-polytech.png" alt="SPbPU Logo" height="40" /></td>
       <td><a href="https://www.spbstu.ru/"><strong>SPbPU</strong></a> (2023-2025)</td>
       <td><strong>Master's degree</strong> (Informatics and computer engineering)</td>
     </tr>
