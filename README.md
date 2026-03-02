@@ -8,10 +8,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
 <div align="center">
-  <a href="https://www.codewars.com/users/lumierrrrre">
+  <a href="https://www.codewars.com/users/lumierrrrre" target="_blank">
     <img src="https://www.codewars.com/users/lumierrrrre/badges/small" alt="Codewars Badge">
   </a>
 </div>
