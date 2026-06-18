@@ -24,7 +24,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/logo-gazprom.png" alt="Gazprom Logo" height="40" /></td>
+      <td><img src="assets/logo-gazprom.png" alt="Gazprom Logo" height="80" /></td>
       <td>
         <strong>Gazprom Pererabotka</strong>
       </td>
@@ -60,7 +60,7 @@
   <table>
     <tr>
       <td>
-        <img src="assets/logo-polytech.png" alt="SPbPU Logo" height="40" />
+        <img src="assets/logo-polytech.png" alt="SPbPU Logo" height="50" />
       </td>
       <td>
         <strong>Peter the Great St.Petersburg Polytechnic University</strong>
@@ -73,7 +73,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="assets/logo-uust.png" alt="UUST Logo" height="40" /></td>
+      <td><img src="assets/logo-uust.png" alt="UUST Logo" height="50" /></td>
       <td>
         <strong>Ufa University of Science and Technology</strong>
       </td>
@@ -106,11 +106,11 @@
 <hr>
 
 <h3 align="center">Contacts</h3>
-<p align="center">
+<div align="center">
   <a href="https://t.me/lumierrrrre">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:lumierrrrre@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
