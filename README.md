@@ -37,7 +37,7 @@
       <td>April 2026 – Present</td>
     </tr>
     <tr>
-      <td><img src="assets/logo-pspod.png" alt="ISSDP Logo" height="40" /></td>
+      <td align="center"><img src="assets/logo-pspod.png" alt="ISSDP Logo" height="40" /></td>
       <td>
         <strong>Industrial systems for streaming data processing</strong>
       </td>
