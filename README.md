@@ -24,7 +24,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/logo-gazprom.png" alt="Gazprom Logo" height="80" /></td>
+      <td align="center"><img src="assets/logo-gazprom.png" alt="Gazprom Logo" height="80" /></td>
       <td>
         <strong>Gazprom Pererabotka</strong>
       </td>
@@ -59,9 +59,7 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="assets/logo-polytech.png" alt="SPbPU Logo" height="50" />
-      </td>
+      <td align="center"><img src="assets/logo-polytech.png" alt="SPbPU Logo" height="50" /></td>
       <td>
         <strong>Peter the Great St.Petersburg Polytechnic University</strong>
       </td>
@@ -73,7 +71,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="assets/logo-uust.png" alt="UUST Logo" height="50" /></td>
+      <td align="center"><img src="assets/logo-uust.png" alt="UUST Logo" height="50" /></td>
       <td>
         <strong>Ufa University of Science and Technology</strong>
       </td>
